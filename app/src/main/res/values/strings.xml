@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Practico 3 Tinder Moviles 1 Fabian Eduardo Gil Cespedes</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="persona_image">Persona Image</string>
+
+</resources>
